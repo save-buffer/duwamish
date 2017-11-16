@@ -1,0 +1,25 @@
+body
+{
+background-color: #171918;
+}
+.banner
+{
+    float: left;
+    clear: none;
+    padding: 0;
+    margin: 0;
+    position: relative;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 500px;
+    z-index: -1;
+    background-color: #3F9A95;
+}
+.heading
+{
+    text-align: center;
+    font-family: freight-sans-pro,Lato,Sans-Serif;
+    color: #fff;
+    padding-top: 200px;
+}
