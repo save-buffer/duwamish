@@ -29,6 +29,10 @@ iframe
 p
 {
     font-family: freight-sans-pro,Lato,Sans-Serif;
+    text-align: left;
+    text-indent: 4em;
+    padding-left: 100px;
+    padding-right: 100px;
     color: #fff;
 }
 
