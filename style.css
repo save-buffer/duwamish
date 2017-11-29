@@ -3,6 +3,7 @@ body
     background-color: #171918;
 }
 
+
 iframe
 {
     display: block;
@@ -41,4 +42,11 @@ p
     font-family: freight-sans-pro,Lato,Sans-Serif;
     color: #fff;
     padding-top: 150px;
+}
+
+.title
+{
+    font-family: freight-sans-pro, Lato, Sans-Serif;
+    color: #fff;
+    font-size: 200%
 }
