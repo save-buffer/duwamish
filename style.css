@@ -51,6 +51,11 @@ p
     font-size: 5em;
 }
 
+.info
+{
+    text-align: center;	
+}
+
 .navbar 
 {
     font-family: freight-sans-pro, Lato, Sans-Serif;
