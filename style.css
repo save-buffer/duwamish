@@ -54,9 +54,12 @@ p
 .info
 {
     text-align: center;	
-    width: 30%;
+    width: 35%;
     height: 5%;
     float: center;
+    position: absolute;
+    top: 50%;
+    left 50%;
 }
 
 .navbar 
