@@ -56,10 +56,13 @@ p
     text-align: center;	
     width: 35%;
     height: 5%;
-    float: center;
-    position: absolute;
     top: 50%;
     left 50%;
+}
+
+.infoHolder
+{
+    text-align: center;
 }
 
 .navbar 
