@@ -89,3 +89,10 @@ p
     margin-top: 30px;
     height: 1500px; /* Used in this example to enable scrolling */
 }
+
+#info
+{
+    text-align: center;
+    font-family: freight-sans-pro, Lato, Sans-Serif;
+    color: #fff;
+}
