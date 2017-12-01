@@ -3,6 +3,7 @@ body
     background-color: #171918;
 }
 
+
 iframe
 {
     display: block;
@@ -41,4 +42,61 @@ p
     font-family: freight-sans-pro,Lato,Sans-Serif;
     color: #fff;
     padding-top: 150px;
+}
+
+.title
+{
+    font-family: freight-sans-pro, Lato, Sans-Serif;
+    color: #fff;
+    font-size: 5em;
+}
+
+.info
+{
+    text-align: center;	
+    width: 35%;
+    height: 5%;
+    top: 50%;
+    left 50%;
+}
+
+.infoHolder
+{
+    text-align: center;
+    width: 100%;
+}
+
+.navbar 
+{
+    font-family: freight-sans-pro, Lato, Sans-Serif;
+    overflow: hidden;
+    background-color: #333;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.navbar a 
+{
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.main 
+{
+    padding: 16px;
+    margin-top: 30px;
+    height: 1500px; /* Used in this example to enable scrolling */
+}
+
+#info
+{
+    text-align: center;
+    font-family: freight-sans-pro, Lato, Sans-Serif;
+    color: #fff;
 }
