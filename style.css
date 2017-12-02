@@ -38,15 +38,9 @@ p
     font-family: freight-sans-pro,Lato,Sans-Serif;
     text-align: left;
     text-indent: 4em;
-    padding-left: 500px;
-    padding-right: 500px;
-    color: #fff;
-}
-
-#AboutTribe p
-{
     padding-left: 400px;
-    padding-right: 400px;    
+    padding-right: 400px;
+    color: #fff;
 }
 
 .heading
@@ -61,21 +55,6 @@ p
     font-family: freight-sans-pro, Lato, Sans-Serif;
     color: #fff;
     font-size: 5em;
-}
-
-.info
-{
-    text-align: center;	
-    width: 35%;
-    height: 5%;
-    top: 50%;
-    left 50%;
-}
-
-.infoHolder
-{
-    text-align: center;
-    width: 100%;
 }
 
 .navbar 
@@ -108,7 +87,7 @@ p
 
 #info
 {
-    text-align: center;
+    text-align: left;
     font-family: freight-sans-pro, Lato, Sans-Serif;
     color: #fff;
 }
