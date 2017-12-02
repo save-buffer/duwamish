@@ -27,14 +27,26 @@ iframe
     background-color: #3F9A95;
 }
 
+img
+{
+    padding: 40px;
+    padding-top: 25px;
+}
+
 p
 {
     font-family: freight-sans-pro,Lato,Sans-Serif;
     text-align: left;
     text-indent: 4em;
-    padding-left: 100px;
-    padding-right: 100px;
+    padding-left: 500px;
+    padding-right: 500px;
     color: #fff;
+}
+
+#AboutTribe p
+{
+    padding-left: 300px;
+    padding-right: 500px;    
 }
 
 .heading
