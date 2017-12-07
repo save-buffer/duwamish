@@ -33,7 +33,7 @@ img
     padding-top: 25px;
 }
 
-p
+p, strong
 {
     font-family: freight-sans-pro,Lato,Sans-Serif;
     text-align: left;
