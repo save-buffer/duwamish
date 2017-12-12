@@ -33,7 +33,7 @@ img
     padding-top: 25px;
 }
 
-p, strong
+p
 {
     font-family: freight-sans-pro,Lato,Sans-Serif;
     text-align: left;
@@ -41,6 +41,19 @@ p, strong
     padding-left: 400px;
     padding-right: 400px;
     color: #fff;
+}
+
+strong
+{
+    font-family: freight-sans-pro,Lato,Sans-Serif;
+    text-align: center;
+    color: #fff;
+}
+
+table
+{
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .heading
@@ -87,8 +100,6 @@ p, strong
 
 #info
 {
-    position: absolute;
-    left: 60%;
     text-align: center;
     font-family: freight-sans-pro, Lato, Sans-Serif;
     color: #fff;
